@@ -7,7 +7,33 @@ body {
 h1{
   font-size: 2em;
   font-weight: bolder;
+  margin: auto;
+  padding: 15px;
+  box-sizing:border-box;
+  width: 100%;
+  text-align: center;
+}
+header {
+  text-align: center;
 }
 h2{
   color: yellow;
+}
+#Directions {
+  float:left;
+}
+#Ingredients {
+  float: left;
+  width:30%;
+}
+#Nutrition {
+  margin: auto;
+  padding: 15px;
+  box-sizing:border-box;
+  width: 100%;
+  text-align: left;
+}
+table{
+  float:center;
+
 }
