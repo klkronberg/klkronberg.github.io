@@ -1,0 +1,55 @@
+@import url(https://fonts.googleapis.com/css?family=Orbitron);
+body {
+  background-color: #906A00;
+  color: red;
+  font-weight: bolder;
+}
+section {
+  padding: 15px;
+  margin: auto;
+}
+#andhast {
+  float:right;
+  box-sizing:border-box;
+  width: 10%;
+    color: yellow;
+}
+img {
+  float:left;
+  width: 40%;
+}
+a {
+  box-sizing:border-box;
+  width: 100%;
+  text-align: center;
+  font-size: 2em;
+  font-weight: bolder;
+}
+#thewalrus {
+  float: left;
+  box-sizing:border-box;
+  width: 10%;
+}
+h1 {
+  font-family: "Orbitron";
+}
+#outfour {
+  float: left;
+  border-style: dotted;
+  border-color: black;
+  border-width: thick;
+  width: 50%;
+  color: blue;
+}
+#thetime {
+  letter-spacing: 40px;
+  color: blue;
+}
+#beware {
+  text-decoration: line-through;
+  text-transform: uppercase;
+  color: blue;
+}
+header {
+  color: #9D9D9E;
+}
