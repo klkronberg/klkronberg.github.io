@@ -29,6 +29,7 @@ a {
   float: left;
   box-sizing:border-box;
   width: 10%;
+  color: purple;
 }
 h1 {
   font-family: "Orbitron";
@@ -52,4 +53,20 @@ h1 {
 }
 header {
   color: #9D9D9E;
+}
+ol {
+  color: green;
+}
+li {
+  word-spacing: 5em;
+}
+#backgroundimage {
+  background-image:  url("http://www.nationaluglychristmassweaterday.org/images/stars-bg.jpg"),
+                    url("https://mdn.mozillademos.org/files/7693/catfront.png");
+ background-color: transparent;
+}
+h2{
+  font-weight: bold;
+  font-style: oblique;
+  color: grey;
 }
