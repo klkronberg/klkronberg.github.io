@@ -1,7 +1,26 @@
 @import url(https://fonts.googleapis.com/css?family=Unica+One);
-html {
-  background-image: final_project/css/marblebackground.jpg;
+body {
+  background-image: url("../marblebackground.jpg");
 }
 h1{
   font-family: Unica One;
+}
+#navigation {
+    height: 35px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    border-top: 4px solid black;
+    border-bottom: 4px solid black;
+    padding-bottom: 17px;
+}
+#navigation ul {
+    height: auto;
+
+}
+ #navigation li {
+   display: inline;
+  padding: 50px;
+  text-decoration: none;
+  font-size: 18px;
 }
