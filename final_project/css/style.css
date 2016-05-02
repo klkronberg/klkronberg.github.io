@@ -70,4 +70,13 @@ li {
   font-size: 25px;
   list-style-type: none;
 
+
+}
+li.a:hover {
+  background-color: white;
+}
+h3 {
+  font-family: Unica One;
+  font-size: 30px;
+
 }
