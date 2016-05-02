@@ -1,19 +1,20 @@
 @import url(https://fonts.googleapis.com/css?family=Unica+One);
 body {
-  background-image: url("../marblebackground.jpg");
+  background-image: url("../blackswirl.jpg");
 }
 h1{
   font-family: Unica One;
   font-size: 70px;
   text-align: center;
+  color: #C6003C;
 }
 #navigation {
     height: 35px;
     font-size: 16px;
     font-weight: bold;
     text-align: center;
-    border-top: 3px solid #6A316E;
-    border-bottom: 3px solid #6A316E;
+    border-top: 3px solid white;
+    border-bottom: 3px solid white;
     padding-bottom: 17px;
     font-family: Unica One;
 
@@ -33,21 +34,22 @@ p {
   font-family: Unica One;
   font-weight: bold;
   font-size: 17px;
+  color: #C6003C
 
 }
 img {
   margin-bottom: 10px;
 
-  border: 3px solid #6A316E;
+  border: 3px solid white;
 }
 #content {
   font-family: Unica One;
-  background-color: rgba(255,255,255,0.7);
+  background-color: rgba(255,255,255,0.9);
+  font-size: 16px;
+  text-align: center;
 
 }
-.col-md-6 {
 
-}
 a {
   color: #2F3336;
 }
@@ -69,14 +71,12 @@ li {
   text-align: center;
   font-size: 25px;
   list-style-type: none;
-
-
 }
+
 li.a:hover {
   background-color: white;
 }
 h3 {
   font-family: Unica One;
   font-size: 30px;
-
 }
