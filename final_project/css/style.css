@@ -18,14 +18,12 @@ h1{
     border-bottom: 3px solid white;
     padding-bottom: 17px;
     font-family: Unica One;
-
 }
 #navigation ul {
     height: auto;
-
 }
  #navigation li {
-   display: inline;
+  display: inline;
   padding: 50px;
   text-decoration: none;
   font-size: 18px;
@@ -47,16 +45,13 @@ img {
   background-color: rgba(255,255,255,0.9);
   font-size: 16px;
   text-align: center;
-
 }
-
 a {
   color: #2F3336;
     background-color: rgba(255,255,255,0.9);
 }
 .lead text-primary {
   color: gray;
-
 }
 h4 {
   color: #2F3336;
@@ -78,6 +73,9 @@ li {
 
 li.a:hover {
   background-color: white;
+}
+a:hover {
+  color: #C6003C;
 }
 h3 {
   font-family: Unica One;
